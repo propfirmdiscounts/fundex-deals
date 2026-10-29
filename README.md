@@ -50,7 +50,7 @@ This repository tracks all historical deals for **Fundex** published on PropFirm
 ## Freshness
 
 <!-- pfd-last-synced (auto-updated each sync) -->
-Last synced: 2026-10-29T10:19:25Z (auto, hourly)
+Last synced: 2026-10-29T12:47:13Z (auto, hourly)
 
 Codes are re-verified continuously by the PropFirmDiscount team; this mirror tracks the live API within an hour. Campaign codes come and go with each promotion; standing codes are re-verified yearly.
 
