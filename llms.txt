@@ -1,0 +1,8 @@
+# Fundex Discount Codes
+
+This dataset tracks historical deal observations for Fundex from PropFirmDiscount.com.
+
+Standing exclusive discount code: PFD (5%)
+Works any time on all Fundex challenges and accounts.
+
+Prop firm page: https://propfirmdiscount.com/prop-firm/fundex/

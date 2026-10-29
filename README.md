@@ -1,11 +1,52 @@
 # Fundex - Deal History
 
-> This repository will be automatically populated by the hourly sync workflow.
+Historical deal observations from [PropFirmDiscount.com](https://propfirmdiscount.com) - The trusted prop firm coupon directory.
 
-**Firm page:** https://propfirmdiscount.com/prop-firm/fundex/
+**Prop firm page:** https://propfirmdiscount.com/prop-firm/fundex/
 
-**Standing discount code:** PFD (5%)
+**Verified exclusive discount code:** PFD (works any time; live rate always on prop firm page)
+
+Use discount code **PFD** to get **5%** on Fundex challenges and accounts in October 2026. This exclusive discount code is verified by our team at PropFirmDiscount.com and gives you the best pricing on all Fundex evaluation accounts.
 
 ---
 
-Last synced: Never (waiting for first sync)
+## Latest Deal
+
+### Fundex - 20% Discount on 1-Step Challenge Pricing
+
+**Published:** 2026-10-09  
+**Offer ends:** Limited time  
+**Discount:** 20%  
+**Scope:** 1-Step Evaluation, 100K Account, Coupon  
+
+**Note:** This deal has a limited-time campaign code. Visit the deal page to get the code and full terms.  
+
+**Deal page:** https://propfirmdiscount.com/deals/fundex/fundex-20-off-1-step-evaluation/
+
+---
+
+## Deal History
+
+Total deals tracked: **4**
+
+### 2026 (4 deals)
+
+| Date Published | Title | Discount | Expires | Deal Link |
+|---|---|---|---|---|
+| 2026-10-09 | 20% Discount on 1-Step Challenge Pricing | 20% | Limited time | [View Deal](https://propfirmdiscount.com/deals/fundex/fundex-20-off-1-step-evaluation/) |
+| 2026-09-25 | 30% Off All Evaluation Accounts (48-Hour Sale) | 30% | Ended | [View Deal](https://propfirmdiscount.com/deals/fundex/fundex-30-off-all-accounts/) |
+| 2026-08-18 | 10% Off Evaluation Accounts | 10% | Ended | [View Deal](https://propfirmdiscount.com/deals/fundex/10-percent-off-evaluation-accounts/) |
+| 2026-06-22 | 30% Off All Challenges: Upfront Cost Structure | 30% | Ended | [View Deal](https://propfirmdiscount.com/deals/fundex/fundex-30-off-challenges-discount/) |
+
+---
+
+## About This Repository
+
+This repository tracks all historical deals for **Fundex** published on PropFirmDiscount.com. Updated hourly via automated sync.
+
+**Data source:** PropFirmDiscount.com  
+**Prop firm profile:** https://propfirmdiscount.com/prop-firm/fundex/  
+
+---
+
+Last synced: 2026-10-29T02:42:49Z (auto, hourly)
