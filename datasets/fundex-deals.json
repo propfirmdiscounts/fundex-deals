@@ -12,7 +12,8 @@
     "last_verified": "2026-10-09",
     "post_url": "https://propfirmdiscount.com/deals/fundex/fundex-20-off-1-step-evaluation/",
     "prop_firm": "Fundex",
-    "prop_firm_slug": "fundex"
+    "prop_firm_slug": "fundex",
+    "standing_code": "PFD"
   },
   {
     "deal_id": 12710,
@@ -27,7 +28,8 @@
     "last_verified": "2026-09-25",
     "post_url": "https://propfirmdiscount.com/deals/fundex/fundex-30-off-all-accounts/",
     "prop_firm": "Fundex",
-    "prop_firm_slug": "fundex"
+    "prop_firm_slug": "fundex",
+    "standing_code": "PFD"
   },
   {
     "deal_id": 12481,
@@ -42,7 +44,8 @@
     "last_verified": "2026-08-18",
     "post_url": "https://propfirmdiscount.com/deals/fundex/10-percent-off-evaluation-accounts/",
     "prop_firm": "Fundex",
-    "prop_firm_slug": "fundex"
+    "prop_firm_slug": "fundex",
+    "standing_code": "PFD"
   },
   {
     "deal_id": 12224,
@@ -57,6 +60,7 @@
     "last_verified": "2026-06-22",
     "post_url": "https://propfirmdiscount.com/deals/fundex/fundex-30-off-challenges-discount/",
     "prop_firm": "Fundex",
-    "prop_firm_slug": "fundex"
+    "prop_firm_slug": "fundex",
+    "standing_code": "PFD"
   }
 ]
