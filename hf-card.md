@@ -62,12 +62,12 @@ Total deals tracked: **4**
 
 ### 2026 (4 deals)
 
-| Deal Date | Title | Discount | Expires | Deal Link |
-|---|---|---|---|---|
-| 2026-10-09 | 20% Discount on 1-Step Challenge Pricing | 20% off | Limited time | [View Deal](https://propfirmdiscount.com/deals/fundex/fundex-20-off-1-step-evaluation/) |
-| 2026-09-25 | 30% Off All Evaluation Accounts (48-Hour Sale) | 30% off | Ended | [View Deal](https://propfirmdiscount.com/deals/fundex/fundex-30-off-all-accounts/) |
-| 2026-08-18 | 10% Off Evaluation Accounts | 10% off | Ended | [View Deal](https://propfirmdiscount.com/deals/fundex/10-percent-off-evaluation-accounts/) |
-| 2026-06-22 | 30% Off All Challenges: Upfront Cost Structure | 30% off | Ended | [View Deal](https://propfirmdiscount.com/deals/fundex/fundex-30-off-challenges-discount/) |
+| Deal Date | Title | Discount | Expires | Event | Deal Link |
+|---|---|---|---|---|---|
+| 2026-10-09 | 20% Discount on 1-Step Challenge Pricing | 20% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/fundex/fundex-20-off-1-step-evaluation/) |
+| 2026-09-25 | 30% Off All Evaluation Accounts (48-Hour Sale) | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fundex/fundex-30-off-all-accounts/) |
+| 2026-08-18 | 10% Off Evaluation Accounts | 10% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fundex/10-percent-off-evaluation-accounts/) |
+| 2026-06-22 | 30% Off All Challenges: Upfront Cost Structure | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fundex/fundex-30-off-challenges-discount/) |
 
 ---
 
@@ -94,6 +94,7 @@ links are appended after, in the order below.
 | `scope` | What the deal covers. |
 | `date_published` | The date this deal went live. |
 | `date_exp` | Expiry as the site states it: an ISO date, `Limited time`, or `Ended`. |
+| `event` | The seasonal campaign this deal was tagged with on the site (`Halloween`, `Black Friday`), or `null` when it belongs to no event. The event never changes what the deal is worth — it names the occasion the deal was run for. |
 | `last_verified` | The date this deal's details were last checked. |
 | `post_url` | This deal's page on PropFirmDiscount. A deal carrying its own campaign code shows that code there. |
 | `prop_firm` | Firm name. |
