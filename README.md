@@ -1,4 +1,4 @@
-# Fundex Discount Code
+# Fundex - Discount Codes & Deal History
 
 As of 2026-10-09, the verified Fundex discount code is PFD — up to 5% OFF, works any time. Its current deals run their own limited-time campaign codes.
 
