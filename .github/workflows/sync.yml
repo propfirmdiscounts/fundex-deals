@@ -16,7 +16,7 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  HF_NAMESPACE: fundexx
+  HF_NAMESPACE: prop-firm
   FIRM_SLUG: fundex
   DEALSTORE_ID: 480
   FIRM_NAME: Fundex
