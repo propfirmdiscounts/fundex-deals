@@ -16,8 +16,8 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  HF_NAMESPACE: prop-firm
-  HF_REPO_NAME: fundex-discount-codes
+  HF_NAMESPACE: fundexx
+  HF_REPO_NAME: fundex-deals
   FIRM_SLUG: fundex
   DEALSTORE_ID: 480
   FIRM_NAME: Fundex
