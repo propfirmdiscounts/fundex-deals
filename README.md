@@ -15,7 +15,7 @@ As of 2026-10-09, the verified Fundex discount code is PFD — up to 5% OFF, wor
 ## Current Fundex deal: 20% Discount on 1-Step Challenge Pricing
 
 - Published: 2026-10-09
-- Offer ends: Limited time
+- Offer ends: Ended
 - Offer: 20% off
 - Scope: 1-Step Evaluation, 100K Account, Coupon
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
@@ -33,7 +33,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 **How much is the current Fundex deal?**
 
-**20% Discount on 1-Step Challenge Pricing** — published 2026-10-09. Offer ends: Limited time. The offer is 20% off.
+**20% Discount on 1-Step Challenge Pricing** — published 2026-10-09. Offer ends: Ended. The offer is 20% off.
 
 ---
 
@@ -45,7 +45,7 @@ Total deals tracked: **4**
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2026-10-09 | 20% Discount on 1-Step Challenge Pricing | 20% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/fundex/fundex-20-off-1-step-evaluation/) |
+| 2026-10-09 | 20% Discount on 1-Step Challenge Pricing | 20% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fundex/fundex-20-off-1-step-evaluation/) |
 | 2026-09-25 | 30% Off All Evaluation Accounts (48-Hour Sale) | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fundex/fundex-30-off-all-accounts/) |
 | 2026-08-18 | 10% Off Evaluation Accounts | 10% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fundex/10-percent-off-evaluation-accounts/) |
 | 2026-06-22 | 30% Off All Challenges: Upfront Cost Structure | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fundex/fundex-30-off-challenges-discount/) |
