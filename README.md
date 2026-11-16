@@ -1,17 +1,17 @@
 # Fundex - Discount Codes & Deal History
 
-As of November 2026, the verified Fundex discount code is PFD — 5% OFF, which can be applied on the checkout page anytime. Its current deals run their own limited-time campaign codes.
+As of November 2026, the verified Fundex discount code is PFD — 5% OFF, which can be applied on the checkout page anytime. The newest is "20% Discount on 1-Step Challenge Pricing".
 
 - Code: PFD
 - Discount: 5% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-10-09
 - Trustpilot: 3.2/5 (41 reviews)
-- GitHub repository: [https://github.com/propfirmdiscounts/fundex-deals](https://github.com/propfirmdiscounts/fundex-deals)
-- Activate: [https://propfirmdiscount.com/go/fundex](https://propfirmdiscount.com/go/fundex)
-- Firm page: [https://propfirmdiscount.com/prop-firm/fundex/](https://propfirmdiscount.com/prop-firm/fundex/)
-- Full dataset: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
-- Code record: [https://propfirmdiscount.com/api/prop-firm-codes/](https://propfirmdiscount.com/api/prop-firm-codes/)
+- GitHub repository: [Fundex Deals Repository](https://github.com/propfirmdiscounts/fundex-deals)
+- Activate: [Activate Fundex Discount Code](https://propfirmdiscount.com/go/fundex)
+- Firm page: [Fundex Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/fundex/)
+- Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Code record: [Fundex API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
 ## Current Fundex deal: 20% Discount on 1-Step Challenge Pricing
 
@@ -20,7 +20,7 @@ As of November 2026, the verified Fundex discount code is PFD — 5% OFF, which 
 - Offer: 20% off
 - Scope: 1-Step Evaluation, 100K Account, Coupon
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
-- Deal page: [https://propfirmdiscount.com/deals/fundex/fundex-20-off-1-step-evaluation/](https://propfirmdiscount.com/deals/fundex/fundex-20-off-1-step-evaluation/)
+- Deal page: [Fundex Deal Page](https://propfirmdiscount.com/deals/fundex/fundex-20-off-1-step-evaluation/)
 
 ## Fundex discount code FAQ
 
@@ -57,9 +57,9 @@ Total deals tracked: **4**
 
 This repository mirrors every deal **Fundex** has published on PropFirmDiscount.com, regenerated from the live API.
 
-- Data source: [https://propfirmdiscount.com](https://propfirmdiscount.com)
-- Prop firm profile: [https://propfirmdiscount.com/prop-firm/fundex/](https://propfirmdiscount.com/prop-firm/fundex/)
-- All firms: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Data source: [PropFirmDiscount.com](https://propfirmdiscount.com)
+- Prop firm profile: [Fundex Profile](https://propfirmdiscount.com/prop-firm/fundex/)
+- All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
 ## Fields in `datasets/fundex-deals.json`
 
@@ -102,4 +102,4 @@ file is the `Last deal published` value above.
 
 ## License
 
-Data © PropFirmDiscount. Codes may be referenced with attribution and a link to https://propfirmdiscount.com.
+Data © PropFirmDiscount. Codes may be referenced with attribution and a link to [PropFirmDiscount.com](https://propfirmdiscount.com).
