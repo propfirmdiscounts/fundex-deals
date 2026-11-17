@@ -1,4 +1,4 @@
-# Fundex Discount Code & Deal History
+# Fundex Discount Code, Deals History & Dataset
 
 As of November 2026, the verified Fundex discount code is PFD — 5% OFF, which can be applied on the checkout page anytime. The newest is "20% Discount on 1-Step Challenge Pricing".
 
@@ -7,7 +7,7 @@ As of November 2026, the verified Fundex discount code is PFD — 5% OFF, which 
 - Valid: Standing code — no published expiry date
 - Last deal published: 2026-10-09
 - Trustpilot: [3.1/5 (42 reviews)](https://www.trustpilot.com/review/fundex.gg)
-- GitHub repository: [Fundex Deals Repository](https://github.com/propfirmdiscounts/fundex-deals)
+- GitHub repository: [Fundex Discount Code & Deals History Repository](https://github.com/propfirmdiscounts/fundex-deals)
 - Activate: [Activate Fundex Discount Code](https://propfirmdiscount.com/go/fundex)
 - Firm page: [Fundex Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/fundex/)
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
@@ -22,7 +22,7 @@ As of November 2026, the verified Fundex discount code is PFD — 5% OFF, which 
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
 - Deal page: [Fundex Deal Page](https://propfirmdiscount.com/deals/fundex/fundex-20-off-1-step-evaluation/)
 
-## Fundex Discount Code & Deals FAQ
+## Fundex Discount Code & Deals History FAQ
 
 **What is the Fundex discount code?**
 
@@ -38,7 +38,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 ---
 
-## Fundex Deal History
+## Fundex Deals History
 
 Total deals tracked: **4**
 
@@ -53,7 +53,7 @@ Total deals tracked: **4**
 
 ---
 
-## About the Fundex Deals Dataset
+## About the Fundex Discount Code & Deals History Dataset
 
 This repository mirrors every deal **Fundex** has published on PropFirmDiscount.com, regenerated from the live API.
 
@@ -61,7 +61,7 @@ This repository mirrors every deal **Fundex** has published on PropFirmDiscount.
 - Prop firm profile: [Fundex Profile](https://propfirmdiscount.com/prop-firm/fundex/)
 - All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
-## Fundex Deal Dataset: Field Definitions
+## Fundex Deals History Dataset: Field Definitions
 
 One row per deal. The first fields are the observation exactly as the
 PropFirmDiscount API returns it; the firm's own code fields and the

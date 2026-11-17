@@ -1,4 +1,4 @@
-# Fundex Discount Codes
+# Fundex Discount Code & Deals History
 
 This dataset tracks historical deal observations for Fundex from PropFirmDiscount.com.
 
