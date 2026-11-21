@@ -1,9 +1,9 @@
 # Fundex Discount Code, Deals History & Dataset
 
-As of November 2026, the verified Fundex discount code is PFD — 5% OFF, which can be applied on the checkout page anytime. The newest is "20% Discount on 1-Step Challenge Pricing".
+As of November 2026, the verified Fundex discount code is PFD — 10% OFF, which can be applied on the checkout page anytime. The newest is "20% Discount on 1-Step Challenge Pricing".
 
 - Code: PFD
-- Discount: 5% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Discount: 10% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: Standing code — no published expiry date
 - Last deal published: 2026-10-09
 - Trustpilot: [3.1/5 (42 reviews)](https://www.trustpilot.com/review/fundex.gg)
@@ -26,7 +26,7 @@ As of November 2026, the verified Fundex discount code is PFD — 5% OFF, which 
 
 **What is the Fundex discount code?**
 
-PFD. It is verified by PropFirmDiscount.com and takes 5% off Fundex challenges and accounts.
+PFD. It is verified by PropFirmDiscount.com and takes 10% off Fundex challenges and accounts.
 
 **Does the Fundex discount code expire?**
 
